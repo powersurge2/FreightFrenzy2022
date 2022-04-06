@@ -21,7 +21,7 @@ public class MethodsTest extends LinearOpMode {
     private DcMotor bRightMotor;
 
     @Override public void runOpMode() throws InterruptedException {
-
+//Travis Wright
         double power;
         power = 0.5;
 
@@ -42,6 +42,9 @@ public class MethodsTest extends LinearOpMode {
 
         // TODO
 
+
+
+        //TrAvis Wright 
 
     }
 
